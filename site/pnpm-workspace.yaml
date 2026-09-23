@@ -1,0 +1,9 @@
+allowBuilds:
+  '@tailwindcss/oxide': true
+  bcrypt: true
+  bufferutil: true
+  keccak: true
+  msgpackr-extract: true
+  protobufjs: true
+  sharp: true
+  utf-8-validate: true
